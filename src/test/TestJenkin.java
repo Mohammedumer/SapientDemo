@@ -7,6 +7,7 @@ package test;
 public class TestJenkin {
 
     public static void main(String[] args) {
-        System.out.println("Hellosssss");
+        System.out.println("Hello");
+        System.out.println("Welcome");
     }
 }
